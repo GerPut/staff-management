@@ -36,7 +36,7 @@ class Form extends Component {
                     id="name"
                     value={name}
                     onChange={this.handleChange} />
-                <label htmlFor="job">Job</label>
+                <label htmlFor="job">Duty</label>
                 <input
                     type="text"
                     name="job"
